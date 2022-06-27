@@ -20,5 +20,5 @@
 <a href="https://linkedin.com/in/amk_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amk_yash" height="30" width="40" /></a>
 <a href="https://instagram.com/amk_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amk_yash" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amkyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amkyash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amk_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amk_yash" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/in/amk_yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amk_yash" height="30" width="40" /></a>
 </p>
