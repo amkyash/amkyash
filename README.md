@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amkyash&label=Profile%20views&color=0e75b6&style=flat" alt="amkyash" /> </p>
 
-- 🌱 I’m currently learning **Web Development & Backend End Development**
+- 🌱 I’m currently learning **Full Stack**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Full Stack Development**
 
 - 💬 Ask me about **DSA, Competitive Coding, Django, API**
 
